@@ -1,0 +1,24 @@
+.box {
+    margin-top: 50vh;
+    margin-left: 100vh;
+}
+
+
+.escape {
+    border: solid 2px red;
+    color: red;
+    border-radius: 10px;
+}
+
+
+a {
+    border: solid 2px red;
+    color: red;
+    margin-left: 5vh;
+    border-radius: 10px;
+    text-decoration: none;
+    padding-top: 1px;
+    padding-right: 4px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+}
